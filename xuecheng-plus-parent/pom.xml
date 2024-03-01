@@ -195,6 +195,9 @@
 
     </dependencyManagement>
 
+    <modules>
+        <module>../xuecheng-plus-base</module>
+    </modules>
     <build>
         <finalName>${project.name}</finalName>
         <!--编译打包过虑配置-->
